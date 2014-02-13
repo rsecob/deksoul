@@ -1,0 +1,6 @@
+platform :ios, '7.0'
+pod 'SBJson', '~> 4.0.0'
+pod 'RegExCategories', '~> 1.0'
+pod 'JSMessagesViewController', '~> 3.4.4'
+pod 'EventEmitter', '~> 0.1.1'
+pod 'UIImageEffects', '~> 0.0.1'

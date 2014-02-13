@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3761668B-019E-4EC8-B0DE-F091F0A3E1A6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DekSoul</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4DA71A10-D55C-4544-B192-38B1F37B90AF</key>
+		<string>https://github.com/robbiehanson/CocoaAsyncSocket.git</string>
+		<key>B3C173D5-A25C-4333-AC84-910549E66080</key>
+		<string>ssh://github.com/bocesr/DekSoul.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DekSoul.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4DA71A10-D55C-4544-B192-38B1F37B90AF</key>
+		<string>../../DekSoul/CocoaAsyncSocket</string>
+		<key>B3C173D5-A25C-4333-AC84-910549E66080</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/bocesr/DekSoul.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3C173D5-A25C-4333-AC84-910549E66080</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4DA71A10-D55C-4544-B192-38B1F37B90AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoaAsyncSocket</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3C173D5-A25C-4333-AC84-910549E66080</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DekSoul</string>
+		</dict>
+	</array>
+</dict>
+</plist>

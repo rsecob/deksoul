@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0E0DBE2-2D1E-4DD3-948B-98B32B123D65</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DekSoul</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2350EA2D-16C0-4249-90C7-6CC27A383CDC</key>
+		<string>https://github.com/robbiehanson/CocoaAsyncSocket.git</string>
+		<key>98CBE270-CE92-4EDC-B565-762C52AD633C</key>
+		<string>ssh://github.com/bocesr/DekSoul.git</string>
+		<key>A52E6597-D3C5-4A20-BF10-A3D1636C6D1A</key>
+		<string>ssh://github.com/bocesr/deksoul.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DekSoul.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2350EA2D-16C0-4249-90C7-6CC27A383CDC</key>
+		<string>../DekSoul/CocoaAsyncSocket</string>
+		<key>98CBE270-CE92-4EDC-B565-762C52AD633C</key>
+		<string>..</string>
+		<key>A52E6597-D3C5-4A20-BF10-A3D1636C6D1A</key>
+		<string>../DekSoul</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/bocesr/DekSoul.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>98CBE270-CE92-4EDC-B565-762C52AD633C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2350EA2D-16C0-4249-90C7-6CC27A383CDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoaAsyncSocket</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98CBE270-CE92-4EDC-B565-762C52AD633C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DekSoul</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A52E6597-D3C5-4A20-BF10-A3D1636C6D1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DekSoul</string>
+		</dict>
+	</array>
+</dict>
+</plist>

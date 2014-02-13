@@ -1,0 +1,25 @@
+PODS:
+  - EventEmitter (0.1.1)
+  - JSMessagesViewController (3.4.4):
+    - JSQSystemSoundPlayer
+  - JSQSystemSoundPlayer (1.4.0)
+  - RegExCategories (1.0)
+  - SBJson (4.0.0)
+  - UIImageEffects (0.0.1)
+
+DEPENDENCIES:
+  - EventEmitter (~> 0.1.1)
+  - JSMessagesViewController (~> 3.4.4)
+  - RegExCategories (~> 1.0)
+  - SBJson (~> 4.0.0)
+  - UIImageEffects (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  EventEmitter: 7e4ae1552f93f67cd66597ac7be67b33be6c6df2
+  JSMessagesViewController: 309de7324fbf48b7da924b002ef6017d5d2ce026
+  JSQSystemSoundPlayer: 28ccd01a92a0cebc6de6361e8499011b4cb6dab7
+  RegExCategories: 4251b5b17ed9d0e16229652ff8539c131365e218
+  SBJson: f3c686806e8e36ab89e020189ac582ba26ec4220
+  UIImageEffects: e1059bcd4c1766f72a78ae6ade359e3f9ee31063
+
+COCOAPODS: 0.29.0
